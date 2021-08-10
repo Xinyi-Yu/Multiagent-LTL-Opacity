@@ -8,7 +8,7 @@ PDF | [Code](https://github.com/Xinyi-Yu/Multiagent-LTL-Opacity/tree/main/codes)
 
 #### Instructions
 Take Case Study 3 in the paper as an example, we upload the corresponding codes and you can try `main.py` in the [codes](https://github.com/Xinyi-Yu/Multiagent-LTL-Opacity/tree/main/codes) folder to obtain the final result.
-It costs about 1h and the results are shown in `result.txt`.
+It costs about 5h (2.10 GHz CPU) and the result of the code is shown in `result.txt`.
 To run other cases in the paper or self-defined scenarios, you only need to change the corresponding information in `Init.py`.
 
 Moreover, the construction details of GTS, labeling-GTS, multiple-labeling-GTS, automata and product system in the paper are corresponding to `GTS.py`, `labelingGTS.py`, `MulLabelingGTS.py`, `buchi.py` and `ProductSystem.py` in this project respectively.
