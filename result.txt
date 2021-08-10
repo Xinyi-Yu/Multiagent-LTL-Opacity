@@ -1,0 +1,31 @@
+nohup: ignoring input
+the number of nodes in GTS is 64
+the number of edges in GTS is 676
+the number of nodes in labelingGTS is 225
+the number of edges in labelingGTS is 2304
+the number of nodes in MulLabelingGTS is 47961
+the number of edges in MulLabelingGTS is 2304324
+the number of nodes in automata A is 4
+the number of edges in automata A is 10
+the number of nodes in Product System is 191844
+the number of edges in Product System is 10477932
+the initial state in Product System is set([(((('A', 'E'), 0, 0), (('A', 'E'), 0, 0), (('A', 'E'), 0, 0)), u'T0_init')])
+the number of the accepting nodes in product system is  2916
+==================
+Dijkstra_plan_networkX done within 17550.09s: precost 10.01, sufcost 0.02
+------------------------------
+the prefix of plan **states**:
+[((('A', 'E'), 0, 0), (('A', 'E'), 0, 0), (('A', 'E'), 0, 0)), ((('A', 'F'), 0, 0), (('F', 'F'), 0, 0), (('F', 'F'), 0, 0)), ((('B', 'G'), 1, 0), (('G', 'G'), 0, 0), (('G', 'B'), 0, 1)), ((('C', 'D'), 1, 0), (('D', 'D'), 0, 0), (('D', 'C'), 0, 1))]
+the suffix of plan **states**:
+[((('C', 'D'), 1, 0), (('D', 'D'), 0, 0), (('D', 'C'), 0, 1)), ((('C', 'D'), 1, 0), (('D', 'D'), 0, 0), (('D', 'C'), 0, 1))]
+------------------------------
+=================The final plan is:
+Prefix:
+('A', 'E')
+('A', 'F')
+('B', 'G')
+('C', 'D')
+Suffix:
+('C', 'D')
+('C', 'D')
+Total time cost: 17986.0650229
