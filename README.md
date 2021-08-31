@@ -7,6 +7,8 @@ We propose a framework which synthesizes a plan of multi-agent team for LTL task
 PDF | [Simulation code](https://github.com/Xinyi-Yu/Multiagent-LTL-Opacity/tree/main/codes) | [Experiment video](https://vimeo.com/585810000)
 
 #### Instructions
+Codes in the [codes](https://github.com/Xinyi-Yu/Multiagent-LTL-Opacity/tree/main/codes) folder are all implemented in Python 2.7. 
+
 Take Case Study 3 in the paper as an example, we upload the corresponding codes and you can try `main.py` in the [codes](https://github.com/Xinyi-Yu/Multiagent-LTL-Opacity/tree/main/codes) folder to obtain the final result.
 It costs about 5h (2.10 GHz CPU) and the result of the code is shown in `result.txt`.
 To run other cases in the paper or self-defined scenarios, you only need to change the corresponding information in `Init.py`.
