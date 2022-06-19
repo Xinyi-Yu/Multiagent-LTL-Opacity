@@ -4,7 +4,7 @@ We propose a framework which synthesizes a plan of multi-agent team for LTL task
 
 ## Security-Preserving Multi-Agent Coordination for Complex Temporal Logic Tasks
 
-PDF | [Simulation code](https://github.com/Xinyi-Yu/Multiagent-LTL-Opacity/tree/main/codes) | [Experiment video](https://vimeo.com/585810000)
+[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0967066122000442) | [Simulation code](https://github.com/Xinyi-Yu/Multiagent-LTL-Opacity/tree/main/codes) | [Experiment video](https://vimeo.com/585810000)
 
 #### Instructions
 Codes in the [codes](https://github.com/Xinyi-Yu/Multiagent-LTL-Opacity/tree/main/codes) folder are all implemented in Python 2.7. 
